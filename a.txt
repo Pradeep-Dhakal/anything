@@ -13,4 +13,7 @@
 
 3)  to commit the changes 
     git commit -m "afno message yha lekhne k gareko ho vanera"
+
+4)  code push garna 
+    git push origin master
     
