@@ -1,0 +1,16 @@
+1) configuration ko lag:
+
+    git config --global user.email "dhakal..."
+    git config --global user.name "......."
+
+
+2) file lai staging area ma puryauna
+
+    git add filename => euta file ko lagi 
+    git add filename1 filename2 => multiple file ko lagi
+    git add .  => sab vako jatti file add garna
+
+
+3)  to commit the changes 
+    git commit -m "afno message yha lekhne k gareko ho vanera"
+    
